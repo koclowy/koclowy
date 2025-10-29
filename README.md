@@ -1,4 +1,8 @@
 ## Hi there 👋
+I’m a Computer Science student from Malaysia specializing in Artificial Intelligence (AI).
+Currently learning Python, and I also enjoy designing UI and UX that make technology feel more human.
+I’m passionate about teaching machines to do the math for me, so I can focus on the creative parts. 😄
+
 
 <!--
 **koclowy/koclowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
