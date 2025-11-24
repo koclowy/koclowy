@@ -1,11 +1,12 @@
 ## Hi there 👋
-I’m a Computer Science student from Malaysia specializing in Artificial Intelligence (AI).
 
-Currently learning Python, and I also enjoy designing UI and UX that make technology feel more human.
+I’m a Computer Science student from Malaysia specializing in Artificial Intelligence and machine learning. I enjoy experimenting with ML algorithms, building practical projects, and learning how AI can solve real-world problems.
 
-I’m passionate about teaching machines to do the math for me, so I can focus on the creative parts. 😄
+Alongside technical development, I also work on UI/UX design to ensure the solutions I build follow Nielsen's Heuristics.
 
-
+**🌸Languages:** Python, Java, HTML, CSS, JavaScript, PHP, SQL
+**🌼AI tools:** ChatGPT 5.1, Gemini 3.0, Claude, Microsoft Copilot, Figma AI, Canva AI, Firebase Studio, NotebookLM, DeepSeek
+**🌷Development tools:** Google Colab, Jupyter Notebook, Visual Studio Code, Apache NetBeans, Netlify, WIX Studio
 <!--
 **koclowy/koclowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
