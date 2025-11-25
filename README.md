@@ -145,3 +145,6 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   </a>
 </p>
 
+---
+
+<p align="center"> ⊹₊⟡⋆ Thank you for visiting my Github Page! Feel free to explore my projects! ⊹₊⟡⋆ </p>
