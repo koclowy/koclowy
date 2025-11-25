@@ -22,6 +22,12 @@ I enjoy experimenting with ML algorithms, building practical projects, and explo
 
 Alongside technical development, I also work on **UI/UX design**, aiming to design experiences guided by **Nielsen’s Heuristics** so that the systems I build are not only powerful, but also usable and human-centred.
 
+## 🌼 A Little Extra
+
+- Always happy to talk about **AI, ML, or UI/UX**  
+- Continuously learning, documenting, and improving my projects  
+- Trying to keep a balance between **research**, **implementation**, and **design**
+
 ---
 
 <p align="center">
@@ -109,12 +115,10 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/snake.svg" alt="Snake animation" />
 </p>
 
-
 ---
 
-## 🌼 A Little Extra
-
-- 💬 Always happy to talk about **AI, ML, or UI/UX**  
-- 🌱 Continuously learning, documenting, and improving my projects  
-- 🧪 Trying to keep a balance between **research**, **implementation**, and **design**
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/13.png" alt="" width="100%">
+</p>
 
