@@ -3,7 +3,7 @@
   <img src="/banner/5.png" alt="" width="100%">
 </p>
 
-<p align="center" style="color:#F5E3F9;"> <i>
+<p align="center" style="color:#F5E3F9; font-size:10px;"> <i>
   All banners made by me btw!
 </i></p>
 
