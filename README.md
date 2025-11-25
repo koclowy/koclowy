@@ -91,10 +91,8 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Streak stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=koclowy&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=koclowy&theme=nord-aurora" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
