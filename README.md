@@ -89,6 +89,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <img src="/banner/12.png" alt="" width="100%">
 </p>
 
+<h2 align="center">⊹₊⟡⋆ Streak Stats</h2>
 <p align="center">
   <!-- Streak stats -->
   <a href="https://git.io/streak-stats">
@@ -103,14 +104,14 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <!-- GitHub stats -->
   <img
     height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
     alt="GitHub Stats"
   />
   
   <!-- Top languages -->
   <img
     height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
