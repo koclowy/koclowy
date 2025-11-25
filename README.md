@@ -124,8 +124,9 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:chloetee2012@gmail.com"> 
-    Email Me
+
+  <a href="mailto:chloetee2012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F5E3F9?style=for-the-badge&logo=gmail&logoColor=4b5563" alt="Email" />
   </a>
   
   <!-- LinkedIn -->
