@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="/banner/gif.gif" width="100%" />
+  <img src="/banner/gif.gif" width="50%" />
 </p> 
 
 ---
