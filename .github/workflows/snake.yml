@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write   # 👈 allow pushing to the repo
+  contents: write   
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # 👈 full history so git push works
+          fetch-depth: 0      
           persist-credentials: false
 
       - name: Generate snake SVG
@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: koclowy
           outputs: |
-            dist/snake.svg?color_snake=#f9a8d4&color_dots=#fdf2ff,#fce7f3,#fae8ff,#e0f2fe,#dbeafe
+            dist/snake.svg?color_snake=#f9a8d4&color_dots=#fdf2ff,#fce7f3,#fecaca,#f9a8d4,#fb7185
 
       - name: Publish snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
