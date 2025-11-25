@@ -90,15 +90,28 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=koclowy&theme=tokyonight&hide_border=true&border_radius=10" />
+  <!-- Streak stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=koclowy&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" />
+  <!-- GitHub stats -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
+  />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" />
+  <!-- Top languages -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
