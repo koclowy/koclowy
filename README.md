@@ -13,26 +13,99 @@
   <img src="/banner/8.png" alt="" width="100%">
 </p>
 
-I’m a Computer Science student from Malaysia specializing in Artificial Intelligence and machine learning. I enjoy experimenting with ML algorithms, building practical projects, and learning how AI can solve real-world problems.
+I’m a Computer Science student from Malaysia specialising in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
+I enjoy experimenting with ML algorithms, building practical projects, and exploring how AI can solve real-world problems.
 
-Alongside technical development, I also work on UI/UX design to ensure the solutions I build follow Nielsen's Heuristics.
+Alongside technical development, I also work on **UI/UX design**, aiming to design experiences guided by **Nielsen’s Heuristics** so that the systems I build are not only powerful, but also usable and human-centred.
 
-**🌸Languages:** Python, Java, HTML, CSS, JavaScript, PHP, SQL
+---
 
-**🌼AI tools:** ChatGPT 5.1, Gemini 3.0, Claude, Microsoft Copilot, Figma AI, Canva AI, Firebase Studio, NotebookLM, DeepSeek
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/9.png" alt="" width="100%">
+</p>
 
-**🌷Development tools:** Google Colab, Jupyter Notebook, Visual Studio Code, Apache NetBeans, Netlify, WIX Studio
-<!--
-**koclowy/koclowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Deepening my understanding of **machine learning** and **deep learning**  
+- Applying AI to real projects (classification, NLP, recommendation, etc.)  
+- Connecting **frontend + backend + ML models** into end-to-end systems  
+- Improving **UI/UX flows** for web apps and dashboards  
+- Writing cleaner, more maintainable **Python and Java** code  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/10.png" alt="" width="100%">
+</p>
+
+⊹₊⟡⋆ **Short term:**  
+  - Secure an **internship in AI / ML / data**  
+  - Improve my coding style, testing, and documentation  
+  - Build more ML projects with clear visualisations and structured reports  
+  - Practice and experiment with more **UI & UX designs** in Figma
+
+⊹₊⟡⋆ **Long term:**  
+  - Grow into an **AI Engineer / ML Engineer**  
+  - Contribute to impactful AI products that are ethical, inclusive, and usable  
+  - Keep combining **technical AI work** with **thoughtful interface design**
+
+---
+
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/11.png" alt="" width="100%">
+</p>
+
+### ⊹₊⟡⋆ Languages & Core Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql&theme=dark" />
+</p>
+
+### ⊹₊⟡⋆ AI / Data & Notebooks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
+</p>
+
+### ⊹₊⟡⋆ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
+</p>
+
+### ⊹₊⟡⋆ Design & Prototyping
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+> Other tools I use: Google Colab, Apache NetBeans, Netlify, WIX Studio, Canva, Firebase Studio, NotebookLM, DeepSeek, Microsoft Copilot, Gemini, ChatGPT.
+
+---
+
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/12.png" alt="" width="100%">
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com?user=qyyean04&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <!-- GitHub stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qyyean04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <!-- Top languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyyean04&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+## 🌼 A Little Extra
+
+- 💬 Always happy to talk about **AI, ML, or UI/UX**  
+- 🌱 Continuously learning, documenting, and improving my projects  
+- 🧪 Trying to keep a balance between **research**, **implementation**, and **design**
+
