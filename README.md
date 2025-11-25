@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/assets/banner.png" alt="" width="100%">
+</p>
+
+<p align="center">
+  <h1>Hi There</h1>
+</p>
 
 I’m a Computer Science student from Malaysia specializing in Artificial Intelligence and machine learning. I enjoy experimenting with ML algorithms, building practical projects, and learning how AI can solve real-world problems.
 
