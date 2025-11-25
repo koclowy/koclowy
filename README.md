@@ -56,25 +56,25 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <img src="/banner/11.png" alt="" width="100%">
 </p>
 
-### ⊹₊⟡⋆ Languages & Core Tech
+<h3 align="center">⊹₊⟡⋆ Languages & Core Tech</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql&theme=dark" />
 </p>
 
-### ⊹₊⟡⋆ AI / Data & Notebooks
+<h3 align="center">⊹₊⟡⋆ AI / Data & Notebooks</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
 </p>
 
-### ⊹₊⟡⋆ Development Tools
+<h3 align="center">⊹₊⟡⋆ Development Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
 </p>
 
-### ⊹₊⟡⋆ Design & Prototyping
+<h3 align="center">⊹₊⟡⋆ Design & Prototyping</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
