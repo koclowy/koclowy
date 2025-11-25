@@ -122,7 +122,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koclowy&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koclowy&theme=rose&hide_border=true" />
 </p>
 
 <p align="center">
