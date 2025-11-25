@@ -126,7 +126,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/dist/snake.svg" alt="Snake animation" />
 </p>
 
 
