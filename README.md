@@ -120,6 +120,10 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=koclowy&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 
 ---
 
