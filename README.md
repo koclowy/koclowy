@@ -4,8 +4,11 @@
 </p>
 
 <p align="center">
-  <h1>Hi There</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hng+Qi+Yean+%F0%9F%91%8B;Computer+Science+Student;AI+%26+ML+Enthusiast;Web+Developer+in+progress" alt="Typing SVG" />
+  </a>
 </p>
+
 
 I’m a Computer Science student from Malaysia specializing in Artificial Intelligence and machine learning. I enjoy experimenting with ML algorithms, building practical projects, and learning how AI can solve real-world problems.
 
