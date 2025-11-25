@@ -112,7 +112,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <h2 align="center">⊹₊⟡⋆ Contributions</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/snake.svg?pastel=true" />
 </p>
 
 ---
