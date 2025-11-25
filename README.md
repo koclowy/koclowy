@@ -122,3 +122,25 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <img src="/banner/13.png" alt="" width="100%">
 </p>
 
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:chloetee2012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F5E3F9?style=for-the-badge&logo=gmail&logoColor=4b5563" alt="Email" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-handle/">
+    <img src="https://img.shields.io/badge/LinkedIn-9F9DF5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/koclowy">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/koclowy">
+    <img src="https://img.shields.io/badge/Discord-C7D2FE?style=for-the-badge&logo=discord&logoColor=4b5563" alt="Discord" />
+  </a>
+</p>
+
