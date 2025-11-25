@@ -90,16 +90,15 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=qyyean04&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=koclowy&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qyyean04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <!-- Top languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyyean04&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" />
 </p>
+
 
 ---
 
