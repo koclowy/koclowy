@@ -18,7 +18,7 @@
 </p>
 
 <p align="center" style="color:#F5E3F9; font-size:10px;"> <i>
-  All banners made by me btw!
+  ⊹₊⟡⋆All banners made by me btw!⊹₊⟡⋆
 </i></p>
 
 I’m a Computer Science student from Malaysia specialising in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
