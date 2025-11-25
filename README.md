@@ -104,27 +104,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   </a>
 </p>
 
-<p align="center">
-  <!-- GitHub stats -->
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=koclowy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  
-  <!-- Top languages -->
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koclowy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koclowy&theme=rose&hide_border=true" />
-</p>
-
+<h2 align="center">⊹₊⟡⋆ Contributions</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/koclowy/koclowy/output/dist/snake.svg" alt="Snake animation" />
 </p>
