@@ -93,7 +93,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <!-- Streak stats -->
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats-eight.vercel.app?user=koclowy&theme=nord-aurora&hide_border=true&border_radius=10"
+      src="https://github-readme-streak-stats-eight.vercel.app?user=koclowy&theme=rose&hide_border=true&border_radius=10"
       alt="GitHub Streak"
     />
   </a>
