@@ -7,6 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5E3F9&center=true&width=600&lines=Hi+I+am+Chloe+%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;Bachelor+of+Computer+Science+(Hons)+Student;Specialised+in+Artificial+Intelligence+%E2%9F%A1;%E2%9F%A1+Passionate+in+AI%2C+ML+and+UI+%26+UX+" alt="Typing SVG" /></a>
 </p>
 
+---
+<p align="center">
+  <!-- Change this path to your actual banner image -->
+  <img src="/banner/8.png" alt="" width="100%">
+</p>
 
 I’m a Computer Science student from Malaysia specializing in Artificial Intelligence and machine learning. I enjoy experimenting with ML algorithms, building practical projects, and learning how AI can solve real-world problems.
 
