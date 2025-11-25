@@ -124,7 +124,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto: chloetee2012@gmail.com"> 
+  <a href="mailto:chloetee2012@gmail.com"> 
     Email Me
   </a>
   
