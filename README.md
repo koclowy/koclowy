@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/assets/banner.png" alt="" width="100%">
+  <img src="/banner/5.png" alt="" width="100%">
 </p>
 
 <p align="center">
