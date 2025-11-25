@@ -38,13 +38,13 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   <img src="/banner/10.png" alt="" width="100%">
 </p>
 
-⊹₊⟡⋆ **Short term:**  
+### ⊹₊⟡⋆ **Short term:**  
   - Secure an **internship in AI / ML / data**  
   - Improve my coding style, testing, and documentation  
   - Build more ML projects with clear visualisations and structured reports  
   - Practice and experiment with more **UI & UX designs** in Figma
 
-⊹₊⟡⋆ **Long term:**  
+### ⊹₊⟡⋆ **Long term:**  
   - Grow into an **AI Engineer / ML Engineer**  
   - Contribute to impactful AI products that are ethical, inclusive, and usable  
   - Keep combining **technical AI work** with **thoughtful interface design**
