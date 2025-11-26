@@ -14,7 +14,7 @@
 ---
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/8.png" alt="" width="100%">
+  <img src="/banner/14.png" alt="" width="100%">
 </p>
 
 <p align="center" style="color:#F5E3F9; font-size:10px;"> <i>
@@ -36,7 +36,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/9.png" alt="" width="100%">
+  <img src="/banner/15.png" alt="" width="100%">
 </p>
 
 - Deepening my understanding of **machine learning** and **deep learning**  
@@ -49,7 +49,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/10.png" alt="" width="100%">
+  <img src="/banner/16.png" alt="" width="100%">
 </p>
 
 ### ⊹₊⟡⋆ **Short term:**  
@@ -67,7 +67,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/11.png" alt="" width="100%">
+  <img src="/banner/17.png" alt="" width="100%">
 </p>
 
 <h2 align="center">⊹₊⟡⋆ Languages & Core Tech</h2>
@@ -100,7 +100,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/12.png" alt="" width="100%">
+  <img src="/banner/18.png" alt="" width="100%">
 </p>
 
 <h2 align="center">⊹₊⟡⋆ Streak Stats</h2>
@@ -123,7 +123,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
 
 <p align="center">
   <!-- Change this path to your actual banner image -->
-  <img src="/banner/13.png" alt="" width="100%">
+  <img src="/banner/19.png" alt="" width="100%">
 </p>
 
 <p align="center">
