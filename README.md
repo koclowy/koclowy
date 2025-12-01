@@ -134,7 +134,7 @@ Alongside technical development, I also work on **UI/UX design**, aiming to desi
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">
+  <a href="https://www.linkedin.com/in/chloeteerouyi/">
     <img src="https://img.shields.io/badge/LinkedIn-9F9DF5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
 
